@@ -1,1 +1,1 @@
-STATUS=ACTIVE
+STATUS=python87
